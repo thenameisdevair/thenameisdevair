@@ -32,10 +32,9 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://markstech.netlify.app"><img src="https://img.shields.io/badge/-markstech.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mark-david-ojukwu-7841a2249/"><img src="https://img.shields.io/badge/-Mark%20David%20Ojukwu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:davidojukwu59@gmail.com"><img src="https://img.shields.io/badge/-davidojukwu59@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/mark_ojukwu"><img src="https://img.shields.io/badge/-Mark David Ojukwu-FD363A?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/okechi-emmanuel-903514253/"><img src="https://img.shields.io/badge/-Devair-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:okechiemmanuel23@gmail.com"><img src="https://img.shields.io/badge/-okechiemmanuel23@gmail.som-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://dune.com/devair_md"><img src="https://img.shields.io/badge/-0xdevair-FD363A?style=flat&logo=DuneAnalytics&logoColor=white"/></a>
 <a href="https://https://medium.com/@0xdevair"><img src="https://img.shields.io/badge/-0xDevair-1877F2?style=flat&logo=Medium&logoColor=white"/></a>
 <a href="https://twitter.com/thenameisdevair"><img src="https://img.shields.io/badge/-0xdevair-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
