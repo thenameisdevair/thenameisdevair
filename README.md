@@ -1,16 +1,41 @@
-## Hi there 👋
+<!-- ## 👋 &nbsp;Hey there! I'm?? -->
 
-<!--
-**thenameisdevair/thenameisdevair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨🏻‍💻 &nbsp;About Me
 
-Here are some ideas to get you started:
+### I'm a Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=tailwindcss)&nbsp;
+![Tailwind](https://img.shields.io/badge/-ChakraUI-05122A?style=flat&logo=chakraui)&nbsp;
+![React](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
+![React](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+## ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+  <a href="https://github.com/thenameisdevair" align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thenameisdevair&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+<a href="https://github.com/thenameisdevair" align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thenameisdevair&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
+</p>
+
+## 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://markstech.netlify.app"><img src="https://img.shields.io/badge/-markstech.netlify.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mark-david-ojukwu-7841a2249/"><img src="https://img.shields.io/badge/-Mark%20David%20Ojukwu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:davidojukwu59@gmail.com"><img src="https://img.shields.io/badge/-davidojukwu59@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/mark_ojukwu"><img src="https://img.shields.io/badge/-Mark David Ojukwu-FD363A?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://https://medium.com/@0xdevair"><img src="https://img.shields.io/badge/-0xDevair-1877F2?style=flat&logo=Medium&logoColor=white"/></a>
+<a href="https://twitter.com/thenameisdevair"><img src="https://img.shields.io/badge/-0xdevair-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
