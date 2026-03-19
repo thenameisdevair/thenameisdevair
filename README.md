@@ -2,14 +2,13 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-### I'm a Frontend Developer
+### I'm a Blockchain Developer $ Technical Writer
 
 
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Tailwind](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=tailwindcss)&nbsp;
-![Tailwind](https://img.shields.io/badge/-ChakraUI-05122A?style=flat&logo=chakraui)&nbsp;
 ![React](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react)&nbsp;
 ![React](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
