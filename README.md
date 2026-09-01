@@ -1,6 +1,7 @@
 # Devair
 
-Smart contract security researcher. I don't audit blind.
+Smart contract security researcher and Developer. I don't audit blind.
+Technical Writer too.
 
 **Pipeline:** onchain recon → threat model → AI scan → Foundry proof → submit.
 
